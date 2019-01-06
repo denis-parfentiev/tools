@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveTempFiles", "RemoveTempFiles\RemoveTempFiles.csproj", "{D05508DB-854D-425C-9D70-245136EAC77A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.Prompt", "Command.Prompt\Command.Prompt.csproj", "{690BAF39-18E7-4AC6-B98F-D1F405FB86DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D05508DB-854D-425C-9D70-245136EAC77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D05508DB-854D-425C-9D70-245136EAC77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D05508DB-854D-425C-9D70-245136EAC77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690BAF39-18E7-4AC6-B98F-D1F405FB86DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690BAF39-18E7-4AC6-B98F-D1F405FB86DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690BAF39-18E7-4AC6-B98F-D1F405FB86DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690BAF39-18E7-4AC6-B98F-D1F405FB86DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
